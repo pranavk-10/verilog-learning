@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Time = 0 | d = 0, en = 0 | q = x
+Time = 10 | d = 1, en = 0 | q = x
+Time = 20 | d = 1, en = 1 | q = 1
+Time = 30 | d = 0, en = 1 | q = 0
+Time = 40 | d = 0, en = 0 | q = 0
+Time = 50 | d = 1, en = 0 | q = 0
+$finish called at time : 60 ns : File "C:/Users/hp/.Xilinx/projects/project_d_latch/project_d_latch.srcs/sim_1/new/d_latch_testbench.v" Line 44

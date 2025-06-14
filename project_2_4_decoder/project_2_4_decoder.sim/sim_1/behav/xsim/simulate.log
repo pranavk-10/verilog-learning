@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+i = 00 , en = 1 | y = 0001
+i = 01 , en = 1 | y = 0010
+i = 10 , en = 1 | y = 0100
+i = 11 , en = 1 | y = 1000
+$finish called at time : 40 ns : File "C:/Users/hp/.Xilinx/projects/project_2_4_decoder/project_2_4_decoder.srcs/sim_1/new/decoder 2 4 testbench.v" Line 35

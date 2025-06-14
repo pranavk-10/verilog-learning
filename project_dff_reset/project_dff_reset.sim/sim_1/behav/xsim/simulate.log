@@ -1,0 +1,14 @@
+Time resolution is 1 ps
+Time = 0 | d = 0, clk = 0, rst = 1 | q = 0
+Time = 5 | d = 0, clk = 1, rst = 1 | q = 0
+Time = 10 | d = 1, clk = 0, rst = 0 | q = 0
+Time = 15 | d = 1, clk = 1, rst = 0 | q = 1
+Time = 20 | d = 1, clk = 0, rst = 0 | q = 1
+Time = 25 | d = 1, clk = 1, rst = 0 | q = 1
+Time = 30 | d = 0, clk = 0, rst = 0 | q = 1
+Time = 35 | d = 0, clk = 1, rst = 0 | q = 0
+Time = 40 | d = 1, clk = 0, rst = 1 | q = 0
+Time = 45 | d = 1, clk = 1, rst = 1 | q = 0
+Time = 50 | d = 0, clk = 0, rst = 0 | q = 0
+Time = 55 | d = 0, clk = 1, rst = 0 | q = 0
+$finish called at time : 60 ns : File "C:/Users/hp/.Xilinx/projects/project_dff_reset/project_dff_reset.srcs/sim_1/new/dff_testbench.v" Line 48

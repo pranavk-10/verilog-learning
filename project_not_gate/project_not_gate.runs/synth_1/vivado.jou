@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Dec 30 18:22:55 2024
+# Process ID         : 8520
+# Current directory  : C:/Users/hp/.Xilinx/projects/project_not_gate/project_not_gate.runs/synth_1
+# Command line       : vivado.exe -log not_gate.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source not_gate.tcl
+# Log file           : C:/Users/hp/.Xilinx/projects/project_not_gate/project_not_gate.runs/synth_1/not_gate.vds
+# Journal file       : C:/Users/hp/.Xilinx/projects/project_not_gate/project_not_gate.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-752L1G5
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz
+# CPU Frequency      : 1190 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8361 MB
+# Swap memory        : 1766 MB
+# Total Virtual      : 10127 MB
+# Available Virtual  : 1621 MB
+#-----------------------------------------------------------
+source not_gate.tcl -notrace

@@ -1,0 +1,7 @@
+Running: xsim.dir/four_bit_ripple_carry_testbench_behav/xsimk.exe -simmode gui -wdb four_bit_ripple_carry_testbench_behav.wdb -simrunnum 0 -socket 57140
+Design successfully loaded
+Design Loading Memory Usage: 26476 KB (Peak: 26476 KB)
+Design Loading CPU Usage: 781 ms
+Simulation completed
+Simulation Memory Usage: 27124 KB (Peak: 27124 KB)
+Simulation CPU Usage: 812 ms

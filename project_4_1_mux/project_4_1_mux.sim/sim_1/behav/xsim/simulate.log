@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+i = 0001 , s = 00 | y = 1
+i = 0010 , s = 01 | y = 1
+i = 0000 , s = 10 | y = 0
+i = 1000 , s = 11 | y = 1
+$finish called at time : 40 ns : File "C:/Users/hp/.Xilinx/projects/project_4_1_mux/project_4_1_mux.srcs/sim_1/new/4_1 mux testbench.v" Line 35

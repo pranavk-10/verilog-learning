@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Time |   in    | n  | lr |   out
+--------------------------------
+               10000 | 11110000 |   2 |  1  | 11000000
+$finish called at time : 10 ns : File "C:/Users/hp/.Xilinx/projects/project_barrel_shifter/project_barrel_shifter.srcs/sim_1/new/barrel_shifter_testbench.v" Line 53

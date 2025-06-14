@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+time =                    0 	 a =0 	 b =0 	 cin0 	 s=0 	 c=0
+time =                   20 	 a =0 	 b =1 	 cin0 	 s=1 	 c=0
+time =                   30 	 a =0 	 b =1 	 cin1 	 s=0 	 c=1
+time =                   40 	 a =1 	 b =1 	 cin1 	 s=1 	 c=1

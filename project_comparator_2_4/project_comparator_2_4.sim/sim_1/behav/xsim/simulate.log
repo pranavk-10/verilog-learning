@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Time |   a   |   b   | eq | sm | gt
+-----------------------------------
+$finish called at time : 30 ns : File "C:/Users/hp/.Xilinx/projects/project_comparator_2_4/project_comparator_2_4.srcs/sim_1/new/comparator_testbench.v" Line 48

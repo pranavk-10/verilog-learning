@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+a=0, b=0, c=0 | d=0 , bout=0
+a=0, b=0, c=1 | d=1 , bout=1
+a=0, b=1, c=0 | d=1 , bout=1
+a=0, b=1, c=1 | d=0 , bout=1
+a=1, b=0, c=0 | d=1 , bout=0
+a=1, b=0, c=1 | d=0 , bout=0
+a=1, b=1, c=0 | d=0 , bout=0
+a=1, b=1, c=1 | d=1 , bout=1
+$finish called at time : 80 ns : File "C:/Users/hp/.Xilinx/projects/project_full_subtractor/project_full_subtractor.srcs/sim_1/new/full_subtractor_testbench.v" Line 38
