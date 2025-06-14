@@ -1,0 +1,26 @@
+
+---
+
+## 🚫 `.gitignore` (Tailored for RTL + Simulation)
+
+```gitignore
+# Simulation outputs
+*.vvp
+*.out
+*.vcd
+*.gtkw
+*.log
+
+# Editor folders
+.vscode/
+*.swp
+*.bak
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Python cache (if using scripts)
+__pycache__/
+*.pyc
+.env/
